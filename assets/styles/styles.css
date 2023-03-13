@@ -17,7 +17,7 @@
 }
 
 #picture {
-  padding: 40px 70px 20px 70px;
+  padding: 40px 70px 20px;
   width: 1000px;
   height: 500px;
   position: relative;
@@ -40,18 +40,14 @@
 }
 
 .time-line {
-  padding-top: 40px;
-  padding-left: 200px;
-  padding-right: 200px;
-  padding-bottom: 40px;
+  padding: 40px 200px 40px 40px;
   font-size: 25px;
 }
 
 .conclude {
   font-style: italic;
   padding: 40px;
-  font-size: 18px;
-  
+  font-size: 18px;  
 }
 
 .head3 {
