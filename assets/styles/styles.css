@@ -20,7 +20,7 @@
   padding: 40px 70px 20px;
   width: 1000px;
   height: 500px;
-  position: relative;
+ color: aquamarine;
 }
 
 .head {
@@ -63,4 +63,8 @@
 
 .list li {
   padding: 10px;
+}
+
+.inner-box {
+  padding-left: 30px;
 }
