@@ -40,7 +40,7 @@
 }
 
 .time-line {
-  padding: 40px 200px;
+  padding: 40px 350px;
   font-size: 25px;
 }
 
@@ -67,4 +67,8 @@
 
 .inner-box {
   padding-left: 30px;
+}
+
+.head3 a {
+  color: #74638f;
 }
